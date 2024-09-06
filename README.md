@@ -9,6 +9,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericloumendes&layout=donut&theme=date_night"/>
 </div>
 
+---
+
+## Docker repositories
+[![node_docker Card](https://github-readme-stats.vercel.app/api/pin/?username=ericloumendes&repo=node_docker&show_icons=true&theme=date_night)](https://github.com/ericloumendes/node_docker)
+
 
 
 <!--
