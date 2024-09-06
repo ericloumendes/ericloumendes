@@ -4,7 +4,7 @@
 
 <br>
 
-  <div align="center">
+<div style="display: flex; flex-direction:row; justify-content:flex-start; align-itens:center;" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericloumendes&show_icons=true&theme=date_night"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericloumendes&layout=donut&theme=date_night"/>
 </div>
