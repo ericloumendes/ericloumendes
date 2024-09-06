@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+---
+
+<br>
+  <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericloumendes&show_icons=true&theme=graywhite"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericloumendes&layout=compact&theme=graywhite"/>
+</div>
+</br>
+
+
+
 <!--
 **ericloumendes/ericloumendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
