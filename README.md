@@ -2,7 +2,9 @@
   Eric Lourenço's repository 
 </h1>
 
+![Banner](/Banner.png)
 
+[Learn more about my companny](https://play.google.com/store/apps/developer?id=Magical_Campfire&hl=pt_BR)
 
 <br>
 
