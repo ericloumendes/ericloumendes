@@ -51,6 +51,9 @@ Then here is your place!</p>
     <a href="https://github.com/ericloumendes/ORM-MODEL">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericloumendes&repo=ORM-MODEL&show_icons=true&theme=date_night">
     </a>
+    <a href="https://github.com/ericloumendes/CRUD-Example">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericloumendes&repo=CRUD-Example&show_icons=true&theme=date_night">
+    </a>
   </div>
 
   <br>
